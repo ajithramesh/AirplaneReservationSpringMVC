@@ -1,0 +1,1 @@
+insert into insert into marvel_character.userdetails (user_id, firstname, gender, password, role, userid) values ('2', 'ajith', 'male','babu','ajith','admin','ajith'); 
